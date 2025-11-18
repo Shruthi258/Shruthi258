@@ -65,11 +65,11 @@ me.say_hi()
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthukuriShruthi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnthukuriShruthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/AnthukuriShruthi)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnthukuriShruthi&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnthukuriShruthi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/AnthukuriShruthi)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthukuriShruthi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthukuriShruthi&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AnthukuriShruthi)
 
 </div>
 
@@ -109,11 +109,11 @@ mindmap
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Trophies
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnthukuriShruthi&theme=react-dark&hide_border=true&area=true)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AnthukuriShruthi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/AnthukuriShruthi)
 
 </div>
 
@@ -194,17 +194,7 @@ Full-stack AI-powered web application
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🎵 Coding Soundtrack
-
-<div align="center">
-
-[![Spotify](https://novatorem-anthukurishruthi.vercel.app/api/spotify)](https://open.spotify.com/user/username)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -221,7 +211,7 @@ Full-stack AI-powered web application
 
 ### 💬 "Artificial Intelligence is the new electricity" - Andrew Ng
 
-![Visitor Count](https://profile-counter.glitch.me/AnthukuriShruthi/count.svg)
+[![](https://visitcount.itsvg.in/api?id=AnthukuriShruthi&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ⭐️ From [Anthukuri Shruthi](https://github.com/AnthukuriShruthi)
 
@@ -249,7 +239,7 @@ Full-stack AI-powered web application
 - Innovative tech solutions
 - Mentoring opportunities
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 - [ ] Contribute to major AI/ML open source projects
 - [ ] Publish research papers
 - [ ] Build production-grade AI applications
